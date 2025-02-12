@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m CyberFig</h1>
+<h1>👋🤖 Hi, I’m CyberFig </h1>
 
 <h3>🔐 Cybersecurity Enthusiast & Computer Science Graduate</h3>
 <p>🪴 <strong>University of Queensland</strong> (2021 - 2025)</p>
@@ -6,7 +6,7 @@
 <h3>💻 What I Do:</h3>
 <ul>
     <li>Web Security Administration | Threat Detection | Incident Response</li>
-    <li>Security Audits & Vulnerability Assessments</li>
+    <li>Security Audits, Vulnerability Assessments & Pen Testing</li>
     <li>Programming in Python, Java, C, and SQL</li>
 </ul>
 
