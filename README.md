@@ -13,14 +13,18 @@
 <h3>🚀 Projects & Achievements:</h3>
 <ul>
     <li>🏆 <strong>Dough Not Shoot</strong> – Hackathon 2022 (Best Design)</li>
-    <p>🎮 Multiplayer game with secure client-server architecture using Godot and AWS EC2</p>
-
+    <ul>
+        <li>🎮 Multiplayer game with secure client-server architecture using Godot and AWS EC2</li>
+    </ul>
     <li>🏆 <strong>Someone</strong> – Hackathon 2021 (Best Presentation)</li>
-    <p>📱 AI-powered iOS app with secure backend integration (GPT-3 & Django REST Framework)</p>
+    <ul>
+        <li>📱 AI-powered iOS app with secure backend integration (GPT-3 & Django REST Framework)</li>
+    </ul>
 </ul>
 
-<h3>📫 Let's connect!</h3>
-<p>🌐 <a href="https://www.cybermouse.me" target="_blank">Portfolio</a> | 🏢 <a href="https://github.com/CyberFigTree" target="_blank">GitHub</a></p>
+
+<h3>🤓 Let's connect!</h3>
+<p>🌐 <a href="https://www.cybermouse.me" target="_blank">Portfolio</a> |  <a href="https://www.linkedin.com/in/cyberfig/" target="_blank">LinkedIn</a></p>
 
 
 <!---
