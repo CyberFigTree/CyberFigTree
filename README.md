@@ -1,7 +1,7 @@
 <h1>👋🤖 Hi, I’m CyberFig </h1>
 
 <h3>🔐 Cybersecurity Enthusiast & Computer Science Graduate</h3>
-<p>🪴 <strong>University of Queensland</strong> (2021 - 2025)</p>
+<p>🪴 <strong>University of Queensland</strong> (2025)</p>
 
 <h3>💻 What I Do:</h3>
 <ul>
